@@ -5,7 +5,9 @@
 }
 
 body {
-    font-family: monospace;
+    background: var(--bg);
+    color: var(--fontColor);
+    font-family: helvetica;
 }
 
 ul {
@@ -27,4 +29,9 @@ li {
 .light-theme {
     color: #000000;
     background: #00FF00;
+}
+
+.dark-theme {
+    --bg: var{--black};
+    --fontColor: var(--green);
 }
