@@ -8,4 +8,5 @@ https://learn.microsoft.com/en-us/training/modules/build-simple-website/
 ## Features
 - Light & Dark theme
 - Images
-- Audio autoplay
+- Audio autoplay (Cipher by Lemmino)
+- Favicon
