@@ -27,10 +27,10 @@ li {
 }
 
 .light-theme {
-    --bg: var(--green);
+    --bg: var(--white);
     --fontColor: var(--black);
     --btnBg: var(--black);
-    --btnFontColor: var(--white);
+    --btnFontColor: var(--black);
 }
 
 .dark-theme {
